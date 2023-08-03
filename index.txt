@@ -1,0 +1,11 @@
+1:HL["/_next/static/media/1060bab20f18b5c2-s.p.woff2",{"as":"font","type":"font/woff2"}]
+2:HL["/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
+3:HL["/_next/static/media/80b9ae13711aebc2-s.p.ttf",{"as":"font","type":"font/ttf"}]
+4:HL["/_next/static/css/661a3eae80d7f6b3.css",{"as":"style"}]
+0:["5ggFPMqR93u1fMqU7WypA",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L5",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/661a3eae80d7f6b3.css","precedence":"next"}]],"$L6"]]]]
+7:I{"id":3466,"chunks":["272:static/chunks/webpack-0611a399e4b551c6.js","253:static/chunks/bce60fc1-1f0993dff8997635.js","961:static/chunks/961-ad5b1e20e8cb29fc.js"],"name":"default","async":false}
+8:I{"id":372,"chunks":["272:static/chunks/webpack-0611a399e4b551c6.js","253:static/chunks/bce60fc1-1f0993dff8997635.js","961:static/chunks/961-ad5b1e20e8cb29fc.js"],"name":"default","async":false}
+9:I{"id":5721,"chunks":["272:static/chunks/webpack-0611a399e4b551c6.js","253:static/chunks/bce60fc1-1f0993dff8997635.js","961:static/chunks/961-ad5b1e20e8cb29fc.js"],"name":"default","async":false}
+a:I{"id":3703,"chunks":["318:static/chunks/318-46af465bc670a446.js","931:static/chunks/app/page-a94609a2b9d1af32.js"],"name":"","async":false}
+5:[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_cabfd8","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","$L9",null,{"propsForComponent":{"params":{}},"Component":"$a"}],null],"segment":"__PAGE__"},"styles":[]}]}]}],null]
+6:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}],["$","meta","3",{"name":"next-size-adjust"}]]
